@@ -2,6 +2,7 @@
  * Spring Security configuration for an admin login page. The application
  * consists of two login pages(for users and admins).
  */
+
 @Configuration
 // @Order(2)
 @EnableAutoConfiguration
